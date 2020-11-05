@@ -15,6 +15,7 @@
    "blocks" : [
      "breadcrumb.search",
      "search-title.v2",
+     "total-products.v2",
      "order-by.v2",
      "search-fetch-previous",
      "search-content",
