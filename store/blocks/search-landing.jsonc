@@ -9,7 +9,7 @@
     "image#landingbanner": {
         "props": {
             "src": "https://cdn.mos.cms.futurecdn.net/EnHJMpHJPazzAXLBVc3aEE-970-80.png.webp",
-            "minWidth": 100
+            "minWidth": "100%"
         }
     },
 
